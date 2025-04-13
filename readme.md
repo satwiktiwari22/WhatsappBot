@@ -22,7 +22,7 @@ This WhatsApp bot integrates OpenAI's GPT models with WhatsApp Web to create an 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/WhatsappBot.git
+git clone https://github.com/satwiktiwari22/WhatsappBot.git
 cd WhatsappBot
 ```
 
